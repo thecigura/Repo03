@@ -6,5 +6,5 @@ function main() {
     // Only change code above t his line
     return [x , y];
 }
-    console. log (main() );
-    module.exports = main;
+console.log(main());
+module.exports = main;

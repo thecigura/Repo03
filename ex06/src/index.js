@@ -12,5 +12,5 @@ function main() {
     return [x, y, z];
 }
 
-console.log (main() );
+console.log(main());
 module.exports = main;
