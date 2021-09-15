@@ -2,16 +2,16 @@ function main(numOne, numTwo) {
     // Only change code below this line
     var numOne;
     var numTwo;
-    var sum = numOne + numTwo;
+    var difference = numOne - numTwo;
     
     // Only change code above this line
-    return sum;
+    return difference;
     }
 
 
 // console.log(main(numOne, numTwo)); // change this line
-console.log(main(15, 8)); // change this line
-console.log(main(5, 28)); // change this line
-console.log(main(150, 425)); // change this line
+console.log(main(15, 8)); 
+console.log(main(25, 8)); 
+console.log(main(425, 120)); 
 
 module.exports = main;
