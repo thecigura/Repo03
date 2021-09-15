@@ -6,6 +6,6 @@ function main() {
 }
 
 main();
+console.log("Hello World");
 module.exports = main;
 
-console.log("Hello World");
